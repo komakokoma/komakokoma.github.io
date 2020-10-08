@@ -1,0 +1,144 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #F7F6F2;
+    height: 100%;
+    color: #55514E;
+}
+
+div#content {
+    background-color: #FCFF3E;
+    height: 100%;
+    width: 360px;
+    margin: auto;
+    text-align: center;
+    overflow-y: scroll;
+}
+
+img#icon {
+    margin-top: 64px;
+}
+
+h1 {
+  font-size: 42px;
+  margin-top: 16px;
+  text-align: right;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+article {
+    margin-top: 32px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: left;
+}
+
+article {
+    font-size: 14px;
+}
+
+img#separator {
+    height: 24px;
+    width: 24px;
+    color: #E26E01;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+    display: block;
+}
+
+section#link {
+    text-align: justify-all;
+    line-height: 30px;
+    text-align: left;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a.twitter {
+    color: #1DA1F2;
+    padding-left: 16px;
+    padding-right: 12px;
+}
+a.twitter:visited {
+    color: #1DA1F2;
+}
+
+a.youtube {
+    color: #FF0000;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+a.youtube:visited {
+    color: #FF0000;
+}
+
+a.booth {
+    color: #FC4D50;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+a.booth:visited {
+    color: #FC4D50;
+}
+
+a.fanbox {
+    color: #000000;
+    padding-left: 12px;
+    padding-right: 16px;
+}
+a.fanbox:visited {
+    color: #000000;
+}
+
+section#fanfic {
+    display: block;
+    margin-top: 32px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 6px;
+    margin-right: 6px;
+    padding: 10px;
+    text-align: left;
+}
+
+section#fanfic h2 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+section#fanfic p {
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+section#fanfic h3 {
+    font-size: 12px;
+    font-weight: bold;
+    color: #E26E01;
+    margin-top: 16px;
+}
+
+section#fanfic ul {
+    margin-left: 24px;
+    margin-top: 4px;
+    margin-right: 16px;
+    font-size: 12px;
+}
+
+.hashtag {
+    color: #1DA1F2;
+}
